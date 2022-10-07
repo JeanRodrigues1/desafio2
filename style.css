@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(219, 219, 219);
+    margin: auto;
+    text-align: center;
+
+}
+
+.começo {
+    background-color:rgb(241, 178, 19);
+    text-align: center;
+    margin-top: -20px;
+
+}
+
+.começo ul{
+    list-style: none;
+    text-align: center;
+
+}
+
+.começo ul li{
+    display: inline-block;
+    padding: 12px;
+    color:rgb(255, 255, 255):
+
+}
+
+.começo ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.estrutura {
+    margin: auto;
+    width: 920px
+}
+
+.post{
+    background-color: white;
+    width: 660px;
+    padding: 10px;
+    float: left;
+    margin-bottom: 20px;
+    
+}
+
+.post h2, h3{
+    text-align: left;
+    margin: 0%;
+
+}
+
+.post p{
+    text-align: justify;
+    margin: 10px;
+
+}
+
+.post a{
+    text-align: left;
+    color:rgb(241, 178, 19);
+
+}
+
+.quadro{
+    float: right;
+    margin-top: -655px;
+    text-align: justify;
+
+}
+
+.recentes{
+    background-color: white;
+    width: 200px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: start;
+
+}
+
+.recentes ul{
+    list-style: none;
+    padding: 0px;
+    text-align: left;
+
+}
+
+.recentes a{
+    color:rgb(241, 178, 19);
+}
+
+.img{
+    margin-top: 35px;
+}
